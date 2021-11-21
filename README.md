@@ -7,7 +7,7 @@
 - 😄 Pronouns: he, him, they
 - ⚡ Fun fact: I can print hello world in 5 languages
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=callmetan7&theme=onedark&margin-w=5&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=callmetan7&theme=onedark&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=callmetan7&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
